@@ -22,8 +22,8 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://15.207.223.177:9000/</sonar.host.url>
-                <sonar.login>admin</sonar.login>
-		<sonar.password>passw0rd</sonar.password>
+                <sonar.login>admin</sonar./var/lib/jenkins/workspace/wallmart/target/maven-web-application.war>
+		<sonar.password>passw0rd</sonar.750e429f26bdb2aded8e5174402f6d63d189f68b>
              
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
