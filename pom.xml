@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.93.241.218:9000/projects//<sonar.host.url> /var/lib/jenkins/workspace/wallmart/target/maven-web-application.war
+		<sonar.host.url>http://3.93.241.218:9000//<sonar.host.url>
                 <sonar.login>admin <ff8ca3508b00ea6f6a775e3dffbc47307ee98e89>
 		<sonar.password>passw0rd</sonar.password>
              
